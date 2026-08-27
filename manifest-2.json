@@ -1,0 +1,25 @@
+{
+  "name": "Elegance Boutique",
+  "short_name": "Elegance",
+  "description": "Elegance Boutique — L'Élégance à votre portée",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F8FD",
+  "theme_color": "#123A6B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "cover.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "cover.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
